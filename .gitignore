@@ -1,0 +1,10 @@
+
+*.swp
+*~
+.project
+tags
+log/
+db/*.sqlite3
+.bundle
+.env
+tmp/

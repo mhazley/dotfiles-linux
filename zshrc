@@ -2,7 +2,7 @@ export ZSH=$HOME/.oh-my-zsh
 export UPDATE_ZSH_DAYS=7
 
 ZSH_THEME="spaceship"
-ZSH_CUSTOM=$HOME/.dotfiles/oh-my-zsh/custom
+ZSH_CUSTOM=$HOME/.dotfiles/oh-my-zsh
 COMPLETION_WAITING_DOTS="true"
 
 plugins=(git zsh-syntax-highlighting)

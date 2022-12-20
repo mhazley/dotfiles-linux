@@ -3,7 +3,7 @@
 sudo add-apt-repository ppa:mattrose/terminator
 sudo apt-get update
 
-sudo apt-get install -y terminator make chrome-gnome-shell curl wget jq unzip vim
+sudo apt-get install -y terminator make chrome-gnome-shell curl wget jq unzip vim zsh
 
 sh -c "$(wget https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh -O -)"
 

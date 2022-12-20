@@ -3,7 +3,9 @@
 sudo add-apt-repository ppa:mattrose/terminator
 sudo apt-get update
 
-sudo apt-get install -y terminator make chrome-gnome-shell curl wget jq unzip
+sudo apt-get install -y terminator make chrome-gnome-shell curl wget jq unzip vim
+
+sh -c "$(wget https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh -O -)"
 
 wget -N -q "https://raw.githubusercontent.com/cyfrost/install-gnome-extensions/master/install-gnome-extensions.sh" -O ./install-gnome-extensions.sh \
   && chmod +x install-gnome-extensions.sh \

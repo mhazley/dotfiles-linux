@@ -16,3 +16,4 @@ SAVEHIST=20000
 
 export BUNDLER_EDITOR="vim"
 export EDITOR="vim"
+export SPACESHIP_ASYNC_SHOW=false

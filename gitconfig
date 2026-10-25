@@ -110,5 +110,5 @@
 [include]
   path = .gitconfig.user
 [user]
-	name = Matthew Hazley
-	email = Matthew.Hazley@dyson.com
+	name = Matt Hazley
+	email = hello@matthazley.com
